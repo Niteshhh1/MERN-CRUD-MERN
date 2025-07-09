@@ -1,0 +1,12 @@
+.create-div{
+    margin-top: 40px;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    font-size: large;
+    margin-top: 4px;
+}

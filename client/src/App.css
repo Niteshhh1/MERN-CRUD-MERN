@@ -1,0 +1,8 @@
+*{
+  background-color:antiquewhite;
+}
+.app-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
